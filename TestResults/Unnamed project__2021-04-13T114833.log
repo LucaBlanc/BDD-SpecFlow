@@ -1,0 +1,378 @@
+﻿2021-04-13T11:48:33.3584057+02:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-04-13T11:48:33.3585968+02:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.7.3 in Framework netcore31 in x64 mode execution started
+2021-04-13T11:48:33.3586022+02:00;VSTestExecutionThread;Info;TestAdapter Location: D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-04-13T11:48:33.3604292+02:00;VSTestExecutionThread;Info;Current UserName: 'Clement', MachineName: 'PC-ECOLE'
+2021-04-13T11:48:33.3906560+02:00;VSTestExecutionThread;Info;SpecRun: running tests in D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.Specs.dll
+2021-04-13T11:48:33.3909305+02:00;VSTestExecutionThread;Info;Output folder configured to "D:\Mes projets\SpecFlowCalculator\TestResults" (default)
+2021-04-13T11:48:33.3909931+02:00;VSTestExecutionThread;Info;Profile: 
+2021-04-13T11:48:33.4372234+02:00;VSTestExecutionThread;Info;Log file path: D:\Mes projets\SpecFlowCalculator\TestResults\Unnamed project__2021-04-13T114833.log
+2021-04-13T11:48:33.4434487+02:00;Thread#11;Info;Checking activation
+2021-04-13T11:48:33.5413580+02:00;Thread#11;Info;Activated.
+2021-04-13T11:48:33.5416324+02:00;Thread#11;Info;Activation check completed
+2021-04-13T11:48:33.5416949+02:00;Thread#11;Info;Starting test run
+2021-04-13T11:48:33.6252921+02:00;Thread#11;Info;Discovering target: Default
+2021-04-13T11:48:33.6257048+02:00;Thread#11;Info;Discovering tests from assembly: D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.Specs.dll
+2021-04-13T11:48:34.3472871+02:00;Thread#11;Info;Discovered tests from assembly: D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.Specs.dll
+2021-04-13T11:48:34.3486526+02:00:Test Suite Dump
+2021-04-13T11:48:34.3507955+02:00:#0: Unnamed project/ - 
+2021-04-13T11:48:34.3508337+02:00:#1: Default - 
+2021-04-13T11:48:34.3508389+02:00:#2: SpecFlowCalculator.Specs - 
+2021-04-13T11:48:34.3508411+02:00:#3: Calculator - 
+2021-04-13T11:48:34.3521130+02:00:#4: Add two numbers - TestAssembly:SpecFlowCalculator.Specs/Feature:Calculator/Scenario:Add+two+numbers
+2021-04-13T11:48:34.3521641+02:00:#5: Multi two numbers - TestAssembly:SpecFlowCalculator.Specs/Feature:Calculator/Scenario:Multi+two+numbers
+2021-04-13T11:48:34.3521851+02:00:#6: Splited two numbers - TestAssembly:SpecFlowCalculator.Specs/Feature:Calculator/Scenario:Splited+two+numbers
+2021-04-13T11:48:34.3522587+02:00:End: Test Suite Dump
+2021-04-13T11:48:34.3707077+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-04-13T11:48:34.3728308+02:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-04-13T11:48:34.3729446+02:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-04-13T11:48:34.3774205+02:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-04-13T11:48:34.3774405+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-04-13T11:48:34.3774436+02:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-04-13T11:48:34.3774547+02:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-04-13T11:48:34.3783529+02:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-04-13T11:48:34.3802422+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-04-13T11:48:34.3828593+02:00:Thread #0: creating new test thread executor for SpecFlowCalculator.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-04-13T11:48:34.3856498+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-04-13T11:48:34.3859151+02:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-04-13T11:48:34.3928982+02:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-04-13T11:48:34.3954267+02:00:starting Out Of Process Executor
+2021-04-13T11:48:34.3975589+02:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:34.4005385+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-04-13T11:48:34.4005534+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-04-13T11:48:34.4017398+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:34.4022284+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-04-13T11:48:34.4023070+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-04-13T11:48:34.4023511+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:34.4026660+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-04-13T11:48:34.4033052+02:00:Tfm: netcoreapp3.1
+2021-04-13T11:48:34.4033151+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:34.4033176+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-04-13T11:48:34.4033602+02:00:[AssemblyCache] Found file 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-04-13T11:48:34.4040259+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-04-13T11:48:34.4047821+02:00:Starting callback TCP Rpc server
+2021-04-13T11:48:34.4296810+02:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-04-13T11:48:34.4297378+02:00:Started callback TCP Rpc server on port 32768
+2021-04-13T11:48:34.4297436+02:00:Starting logger TCP Rpc server
+2021-04-13T11:48:34.4312238+02:00:Asynchronously starting background TCP Rpc Server on port 32771
+2021-04-13T11:48:34.4312524+02:00:Started logger TCP Rpc server on port 32771
+2021-04-13T11:48:34.5311813+02:00:Executing test executor at 'dotnet' 'exec "D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 8668 --uniqueId "2021-04-13T114833" --outputFolder "D:\Mes projets\SpecFlowCalculator\TestResults" --callbackPort 32768 --loggerPort 32771' in 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:34.5771701+02:00:Executor with PID 1796 has been started successfully.
+2021-04-13T11:48:34.5800273+02:00:Out of Process Executor 1796 started
+2021-04-13T11:48:34.5800389+02:00:Waiting for endpoint
+2021-04-13T11:48:35.3595557+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:35.3596064+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-04-13T11:48:35.3596109+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-04-13T11:48:35.3596153+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:35.3596248+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-04-13T11:48:35.3596523+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-04-13T11:48:35.3596756+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:35.3596803+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-04-13T11:48:35.3597088+02:00:Tfm: netcoreapp3.1
+2021-04-13T11:48:35.3597130+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:35.3597148+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-04-13T11:48:35.3597498+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-04-13T11:48:35.3598122+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:35.3664726+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:35.3664926+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\StreamJsonRpc.resources.dll'
+2021-04-13T11:48:35.3665504+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\StreamJsonRpc.resources.exe'
+2021-04-13T11:48:35.3665927+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:35.3667212+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:35.3667360+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\StreamJsonRpc.resources.dll'
+2021-04-13T11:48:35.3667841+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\StreamJsonRpc.resources.exe'
+2021-04-13T11:48:35.3668319+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:35.3669446+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:35.3669598+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\StreamJsonRpc.resources.dll'
+2021-04-13T11:48:35.3670152+02:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\StreamJsonRpc.resources.exe'
+2021-04-13T11:48:35.3670465+02:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:35.3678581+02:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:35.3684959+02:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:35.3685131+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-04-13T11:48:35.3685216+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-04-13T11:48:35.3685317+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:35.3685342+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-04-13T11:48:35.3685592+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-04-13T11:48:35.3685842+02:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:35.3685884+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-04-13T11:48:35.3686004+02:00:Tfm: netcoreapp3.1
+2021-04-13T11:48:35.3686035+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:35.3686157+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-04-13T11:48:35.3686488+02:00:[AssemblyCache] Found file 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-04-13T11:48:35.3692659+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-04-13T11:48:36.8597146+02:00:Remote executor port received: 32772
+2021-04-13T11:48:36.8601761+02:00:Creating executor TCP client on port 32772
+2021-04-13T11:48:36.8606876+02:00:Created executor TCP client on port 32772
+2021-04-13T11:48:36.8607033+02:00:Connecting to remote executor TCP server
+2021-04-13T11:48:36.8616338+02:00:Connected remote executor TCP server
+2021-04-13T11:48:36.8619147+02:00:trying to connect to Out of Process Executor the 1 attempt
+2021-04-13T11:48:36.8619219+02:00:Connection to Out of Process Executor established in the 1 attempt
+2021-04-13T11:48:37.0319083+02:00:2021-04-13T11:48:37.0273804+02:00:OutOfProcessTestAssemblyExecutor: initialized for D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.Specs.dll on test thread #0
+2021-04-13T11:48:37.0397398+02:00:Endpoint 1796 started
+2021-04-13T11:48:37.0595115+02:00:2021-04-13T11:48:37.0589967+02:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-04-13T11:48:37.1989496+02:00:2021-04-13T11:48:37.1984006+02:00:Assembly resolving TechTalk.SpecFlow, Version=3.7.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-04-13T11:48:37.2025029+02:00:2021-04-13T11:48:37.2020517+02:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-04-13T11:48:37.2058281+02:00:2021-04-13T11:48:37.2054732+02:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Clement\.nuget\packages\specflow\3.7.13\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-04-13T11:48:37.3295387+02:00:2021-04-13T11:48:37.3283152+02:00:Thread#0:T:-> Loading plugin D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.Specs.dll
+2021-04-13T11:48:37.3321588+02:00:2021-04-13T11:48:37.3311284+02:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-04-13T11:48:37.3341914+02:00:2021-04-13T11:48:37.3329558+02:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-04-13T11:48:37.3363301+02:00:2021-04-13T11:48:37.3351700+02:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\Clement\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-04-13T11:48:37.3856744+02:00:2021-04-13T11:48:37.3844901+02:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-04-13T11:48:37.3869766+02:00:2021-04-13T11:48:37.3861971+02:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-04-13T11:48:37.3883032+02:00:2021-04-13T11:48:37.3876362+02:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\Clement\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-04-13T11:48:37.3973158+02:00:2021-04-13T11:48:37.3962930+02:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowCalculator.Specs, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-04-13T11:48:37.3985210+02:00:2021-04-13T11:48:37.3979491+02:00:Thread#0:T:-> Loading plugin D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-04-13T11:48:37.4010544+02:00:2021-04-13T11:48:37.4006547+02:00:Assembly resolving LivingDoc.Dtos, Version=3.7.0.0, Culture=neutral, PublicKeyToken=null
+2021-04-13T11:48:37.4014723+02:00:2021-04-13T11:48:37.4013018+02:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-04-13T11:48:37.4019690+02:00:2021-04-13T11:48:37.4018000+02:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Clement\.nuget\packages\specflow.plus.livingdocplugin\3.7.141\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-04-13T11:48:37.4048152+02:00:2021-04-13T11:48:37.4044906+02:00:Thread#0:T:-> Loading plugin D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-04-13T11:48:37.4119844+02:00:2021-04-13T11:48:37.4114832+02:00:Thread#0:T:-> Using default config
+2021-04-13T11:48:37.4268434+02:00:2021-04-13T11:48:37.4263170+02:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-04-13T11:48:37.4274416+02:00:2021-04-13T11:48:37.4271087+02:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-04-13T11:48:37.4279689+02:00:2021-04-13T11:48:37.4277925+02:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Clement\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-04-13T11:48:37.4290507+02:00:2021-04-13T11:48:37.4287710+02:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-04-13T11:48:37.4294145+02:00:2021-04-13T11:48:37.4292500+02:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-04-13T11:48:37.4298486+02:00:2021-04-13T11:48:37.4296574+02:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Clement\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-04-13T11:48:37.4405224+02:00:2021-04-13T11:48:37.4399904+02:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:37.4410352+02:00:2021-04-13T11:48:37.4408006+02:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-04-13T11:48:37.4417330+02:00:2021-04-13T11:48:37.4414549+02:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Clement\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-04-13T11:48:37.4811389+02:00:2021-04-13T11:48:37.4805484+02:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-04-13T11:48:37.4818216+02:00:2021-04-13T11:48:37.4815373+02:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-04-13T11:48:37.4824578+02:00:2021-04-13T11:48:37.4821852+02:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\Clement\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-04-13T11:48:37.7136214+02:00:Thread#0: Test #4/0 is started on thread #0
+2021-04-13T11:48:37.7912644+02:00:2021-04-13T11:48:37.7905394+02:00:Thread#0:B:Given the first number is 50
+2021-04-13T11:48:37.8166616+02:00:2021-04-13T11:48:37.8161500+02:00:Assembly resolving SpecFlowCalculator, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-04-13T11:48:37.8171762+02:00:2021-04-13T11:48:37.8169629+02:00:[AssemblyCache] Trying to resolve 'SpecFlowCalculator' from .deps.json file
+2021-04-13T11:48:37.8182516+02:00:2021-04-13T11:48:37.8179286+02:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'SpecFlowCalculator', found in dependency map, but unable to resolve a path in ['SpecFlowCalculator.dll']
+2021-04-13T11:48:37.8186035+02:00:2021-04-13T11:48:37.8184338+02:00:[AssemblyCache] Could not resolve 'SpecFlowCalculator' from .deps.json
+2021-04-13T11:48:37.8202591+02:00:2021-04-13T11:48:37.8199492+02:00:[AssemblyCache] Trying to resolve 'SpecFlowCalculator' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:37.8242072+02:00:2021-04-13T11:48:37.8238595+02:00:[AssemblyCache] Trying to resolve 'SpecFlowCalculator' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.dll'
+2021-04-13T11:48:37.8246833+02:00:2021-04-13T11:48:37.8244643+02:00:[AssemblyCache] Found file 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.dll' for assembly 'SpecFlowCalculator'
+2021-04-13T11:48:37.8256679+02:00:2021-04-13T11:48:37.8253858+02:00:[AssemblyCache] Resolved 'SpecFlowCalculator' to D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowCalculator.dll
+2021-04-13T11:48:37.8332119+02:00:2021-04-13T11:48:37.8328160+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2021-04-13T11:48:37.8363369+02:00:2021-04-13T11:48:37.8356987+02:00:Thread#0:B:And the second number is 70
+2021-04-13T11:48:37.8396902+02:00:2021-04-13T11:48:37.8391707+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2021-04-13T11:48:37.8407015+02:00:2021-04-13T11:48:37.8403509+02:00:Thread#0:B:When the two numbers are added
+2021-04-13T11:48:37.8428911+02:00:2021-04-13T11:48:37.8424454+02:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreAdded() (0,0s)
+2021-04-13T11:48:37.8447473+02:00:2021-04-13T11:48:37.8440504+02:00:Thread#0:B:Then the result should be 120
+2021-04-13T11:48:37.8470933+02:00:2021-04-13T11:48:37.8466506+02:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-04-13T11:48:37.8476004+02:00:2021-04-13T11:48:37.8473278+02:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-04-13T11:48:37.8482909+02:00:2021-04-13T11:48:37.8479923+02:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\Clement\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-04-13T11:48:37.8540717+02:00:2021-04-13T11:48:37.8535449+02:00:Thread#0:T:done: CalculatorStepDefinitions.ThenTheResultShouldBe(120) (0,0s)
+2021-04-13T11:48:37.8682455+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-04-13T11:48:37.8683035+02:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-04-13T11:48:37.8683115+02:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-04-13T11:48:37.8683665+02:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-04-13T11:48:37.8683740+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-04-13T11:48:37.8683762+02:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-04-13T11:48:37.8683784+02:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-04-13T11:48:37.8684052+02:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-04-13T11:48:37.8684378+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-04-13T11:48:37.9288279+02:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0,1771307 seconds
+2021-04-13T11:48:37.9468916+02:00:Thread#0: Test #5/0 is started on thread #0
+2021-04-13T11:48:37.9493431+02:00:2021-04-13T11:48:37.9489008+02:00:Thread#0:B:Given the first number is 50
+2021-04-13T11:48:37.9502559+02:00:2021-04-13T11:48:37.9499249+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2021-04-13T11:48:37.9508621+02:00:2021-04-13T11:48:37.9505823+02:00:Thread#0:B:And the second number is 70
+2021-04-13T11:48:37.9515668+02:00:2021-04-13T11:48:37.9512790+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2021-04-13T11:48:37.9522026+02:00:2021-04-13T11:48:37.9519107+02:00:Thread#0:B:When the two numbers are multiplied
+2021-04-13T11:48:37.9541088+02:00:2021-04-13T11:48:37.9538476+02:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreMulti() (0,0s)
+2021-04-13T11:48:37.9544815+02:00:2021-04-13T11:48:37.9543196+02:00:Thread#0:B:Then the result should be 3500
+2021-04-13T11:48:37.9549477+02:00:2021-04-13T11:48:37.9547959+02:00:Thread#0:T:done: CalculatorStepDefinitions.ThenTheResultShouldBe(3500) (0,0s)
+2021-04-13T11:48:37.9557840+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-04-13T11:48:37.9558073+02:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2021-04-13T11:48:37.9558107+02:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-04-13T11:48:37.9558388+02:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-04-13T11:48:37.9558426+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-04-13T11:48:37.9558446+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-04-13T11:48:37.9558467+02:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-04-13T11:48:37.9558564+02:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-04-13T11:48:37.9558641+02:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-04-13T11:48:37.9574584+02:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0,0105038 seconds
+2021-04-13T11:48:37.9580349+02:00:Thread#0: Test #6/0 is started on thread #0
+2021-04-13T11:48:37.9601991+02:00:2021-04-13T11:48:37.9599036+02:00:Thread#0:B:Given the first number is 50
+2021-04-13T11:48:37.9607478+02:00:2021-04-13T11:48:37.9605716+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2021-04-13T11:48:37.9610914+02:00:2021-04-13T11:48:37.9609189+02:00:Thread#0:B:And the second number is 70
+2021-04-13T11:48:37.9615491+02:00:2021-04-13T11:48:37.9613893+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2021-04-13T11:48:37.9618861+02:00:2021-04-13T11:48:37.9617055+02:00:Thread#0:B:When the two numbers are splited
+2021-04-13T11:48:37.9631263+02:00:2021-04-13T11:48:37.9628002+02:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreSplit() (0,0s)
+2021-04-13T11:48:37.9635251+02:00:2021-04-13T11:48:37.9633741+02:00:Thread#0:B:Then the result should be 0,7142857142857143
+2021-04-13T11:48:37.9648072+02:00:2021-04-13T11:48:37.9645393+02:00:Assembly resolving System.ComponentModel.TypeConverter.resources, Version=4.2.2.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:37.9651410+02:00:2021-04-13T11:48:37.9649701+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' from .deps.json file
+2021-04-13T11:48:37.9654736+02:00:2021-04-13T11:48:37.9653061+02:00:[AssemblyCache] Could not resolve 'System.ComponentModel.TypeConverter.resources' from .deps.json
+2021-04-13T11:48:37.9658018+02:00:2021-04-13T11:48:37.9656252+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:37.9660796+02:00:2021-04-13T11:48:37.9659236+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\System.ComponentModel.TypeConverter.resources.dll'
+2021-04-13T11:48:37.9664437+02:00:2021-04-13T11:48:37.9662526+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\System.ComponentModel.TypeConverter.resources.exe'
+2021-04-13T11:48:37.9667880+02:00:2021-04-13T11:48:37.9666149+02:00:[AssemblyCache] Could not resolve 'System.ComponentModel.TypeConverter.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:37.9674297+02:00:2021-04-13T11:48:37.9672449+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-04-13T11:48:37.9681900+02:00:2021-04-13T11:48:37.9679621+02:00:Tfm: netcoreapp3.1
+2021-04-13T11:48:37.9685079+02:00:2021-04-13T11:48:37.9683537+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:37.9689064+02:00:2021-04-13T11:48:37.9686266+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.ComponentModel.TypeConverter.resources.dll'
+2021-04-13T11:48:37.9712700+02:00:2021-04-13T11:48:37.9708648+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.ComponentModel.TypeConverter.resources.exe'
+2021-04-13T11:48:37.9717291+02:00:2021-04-13T11:48:37.9715543+02:00:[AssemblyCache] Could not resolve 'System.ComponentModel.TypeConverter.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:37.9794955+02:00:2021-04-13T11:48:37.9790671+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:37.9800113+02:00:2021-04-13T11:48:37.9798016+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.ComponentModel.TypeConverter.resources.dll'
+2021-04-13T11:48:37.9804979+02:00:2021-04-13T11:48:37.9802958+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.ComponentModel.TypeConverter.resources.exe'
+2021-04-13T11:48:37.9809473+02:00:2021-04-13T11:48:37.9807347+02:00:[AssemblyCache] Could not resolve 'System.ComponentModel.TypeConverter.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:37.9814526+02:00:2021-04-13T11:48:37.9812528+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:37.9817950+02:00:2021-04-13T11:48:37.9816205+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.ComponentModel.TypeConverter.resources.dll'
+2021-04-13T11:48:37.9822137+02:00:2021-04-13T11:48:37.9820400+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.ComponentModel.TypeConverter.resources.exe'
+2021-04-13T11:48:37.9825381+02:00:2021-04-13T11:48:37.9823913+02:00:[AssemblyCache] Could not resolve 'System.ComponentModel.TypeConverter.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:37.9829608+02:00:2021-04-13T11:48:37.9828045+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:37.9832543+02:00:2021-04-13T11:48:37.9830943+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.ComponentModel.TypeConverter.resources.dll'
+2021-04-13T11:48:37.9835829+02:00:2021-04-13T11:48:37.9834287+02:00:[AssemblyCache] Trying to resolve 'System.ComponentModel.TypeConverter.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.ComponentModel.TypeConverter.resources.exe'
+2021-04-13T11:48:37.9839410+02:00:2021-04-13T11:48:37.9837633+02:00:[AssemblyCache] Could not resolve 'System.ComponentModel.TypeConverter.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:37.9851862+02:00:2021-04-13T11:48:37.9849679+02:00:Assembly resolving System.ComponentModel.TypeConverter.resources, Version=4.2.2.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:38.0721840+02:00:2021-04-13T11:48:38.0716566+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-04-13T11:48:38.0726128+02:00:2021-04-13T11:48:38.0724370+02:00:[AssemblyCache] Trying to resolve 'nspec' from .deps.json file
+2021-04-13T11:48:38.0729325+02:00:2021-04-13T11:48:38.0727697+02:00:[AssemblyCache] Could not resolve 'nspec' from .deps.json
+2021-04-13T11:48:38.0732687+02:00:2021-04-13T11:48:38.0730699+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:38.0735595+02:00:2021-04-13T11:48:38.0733931+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\nspec.dll'
+2021-04-13T11:48:38.0739247+02:00:2021-04-13T11:48:38.0737487+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\nspec.exe'
+2021-04-13T11:48:38.0742618+02:00:2021-04-13T11:48:38.0741136+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:38.0745170+02:00:2021-04-13T11:48:38.0743858+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-04-13T11:48:38.0748031+02:00:2021-04-13T11:48:38.0746543+02:00:Tfm: netcoreapp3.1
+2021-04-13T11:48:38.0751050+02:00:2021-04-13T11:48:38.0749111+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:38.0753841+02:00:2021-04-13T11:48:38.0752323+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.dll'
+2021-04-13T11:48:38.0756894+02:00:2021-04-13T11:48:38.0755365+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\nspec.exe'
+2021-04-13T11:48:38.0761941+02:00:2021-04-13T11:48:38.0759151+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:38.0773112+02:00:2021-04-13T11:48:38.0770493+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:38.0776229+02:00:2021-04-13T11:48:38.0774655+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\nspec.dll'
+2021-04-13T11:48:38.0779592+02:00:2021-04-13T11:48:38.0778133+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\nspec.exe'
+2021-04-13T11:48:38.0782880+02:00:2021-04-13T11:48:38.0781451+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:38.0786720+02:00:2021-04-13T11:48:38.0785293+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:38.0789705+02:00:2021-04-13T11:48:38.0788123+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\nspec.dll'
+2021-04-13T11:48:38.0793051+02:00:2021-04-13T11:48:38.0791433+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\nspec.exe'
+2021-04-13T11:48:38.0796306+02:00:2021-04-13T11:48:38.0794816+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:38.0800620+02:00:2021-04-13T11:48:38.0798871+02:00:[AssemblyCache] Trying to resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:38.0803436+02:00:2021-04-13T11:48:38.0801944+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\nspec.dll'
+2021-04-13T11:48:38.0806625+02:00:2021-04-13T11:48:38.0805215+02:00:[AssemblyCache] Trying to resolve 'nspec' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\nspec.exe'
+2021-04-13T11:48:38.0810279+02:00:2021-04-13T11:48:38.0808561+02:00:[AssemblyCache] Could not resolve 'nspec' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:38.1102344+02:00:2021-04-13T11:48:38.1064069+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-04-13T11:48:38.1214322+02:00:2021-04-13T11:48:38.1209241+02:00:Assembly resolving nspec, Culture=neutral, PublicKeyToken=null
+2021-04-13T11:48:38.1352849+02:00:2021-04-13T11:48:38.1347329+02:00:Assembly resolving xunit.assert, Culture=neutral, PublicKeyToken=null
+2021-04-13T11:48:38.1357140+02:00:2021-04-13T11:48:38.1355416+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' from .deps.json file
+2021-04-13T11:48:38.1360310+02:00:2021-04-13T11:48:38.1358509+02:00:[AssemblyCache] Could not resolve 'xunit.assert' from .deps.json
+2021-04-13T11:48:38.1363465+02:00:2021-04-13T11:48:38.1361830+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:38.1366408+02:00:2021-04-13T11:48:38.1364868+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\xunit.assert.dll'
+2021-04-13T11:48:38.1369844+02:00:2021-04-13T11:48:38.1368364+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\xunit.assert.exe'
+2021-04-13T11:48:38.1373423+02:00:2021-04-13T11:48:38.1371482+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:38.1376127+02:00:2021-04-13T11:48:38.1374742+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-04-13T11:48:38.1378890+02:00:2021-04-13T11:48:38.1377376+02:00:Tfm: netcoreapp3.1
+2021-04-13T11:48:38.1381933+02:00:2021-04-13T11:48:38.1380230+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:38.1384817+02:00:2021-04-13T11:48:38.1383319+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.dll'
+2021-04-13T11:48:38.1388361+02:00:2021-04-13T11:48:38.1386398+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\xunit.assert.exe'
+2021-04-13T11:48:38.1391739+02:00:2021-04-13T11:48:38.1390034+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:38.1400526+02:00:2021-04-13T11:48:38.1397241+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:38.1404564+02:00:2021-04-13T11:48:38.1402748+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\xunit.assert.dll'
+2021-04-13T11:48:38.1408293+02:00:2021-04-13T11:48:38.1406611+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\xunit.assert.exe'
+2021-04-13T11:48:38.1411543+02:00:2021-04-13T11:48:38.1409912+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:38.1416363+02:00:2021-04-13T11:48:38.1414548+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:38.1419195+02:00:2021-04-13T11:48:38.1417720+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\xunit.assert.dll'
+2021-04-13T11:48:38.1422700+02:00:2021-04-13T11:48:38.1420975+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\xunit.assert.exe'
+2021-04-13T11:48:38.1425729+02:00:2021-04-13T11:48:38.1424308+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:38.1430113+02:00:2021-04-13T11:48:38.1428519+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:38.1433060+02:00:2021-04-13T11:48:38.1431498+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\xunit.assert.dll'
+2021-04-13T11:48:38.1436394+02:00:2021-04-13T11:48:38.1434748+02:00:[AssemblyCache] Trying to resolve 'xunit.assert' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\xunit.assert.exe'
+2021-04-13T11:48:38.1439626+02:00:2021-04-13T11:48:38.1438050+02:00:[AssemblyCache] Could not resolve 'xunit.assert' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:38.1605048+02:00:2021-04-13T11:48:38.1599877+02:00:Thread#0:T:error: Expected _result to be 7.142857E+15F, but found 0F. (0,2s)
+2021-04-13T11:48:38.1644756+02:00:Thread#0:TestItem#6:Scheduler: reschedule tests for testitem #6
+2021-04-13T11:48:38.1652261+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-04-13T11:48:38.1652740+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2021-04-13T11:48:38.1652793+02:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-04-13T11:48:38.1653017+02:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-04-13T11:48:38.1653050+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-04-13T11:48:38.1653068+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-04-13T11:48:38.1653088+02:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-04-13T11:48:38.1653196+02:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-04-13T11:48:38.1653271+02:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-04-13T11:48:38.1672074+02:00:Thread#0: Test #6/0 is finished on thread #0 as Failed within 0,2091115 seconds
+2021-04-13T11:48:38.1683280+02:00:Thread#0: Test #6/1 is started on thread #0
+2021-04-13T11:48:38.1697417+02:00:2021-04-13T11:48:38.1692050+02:00:Thread#0:B:Given the first number is 50
+2021-04-13T11:48:38.1711655+02:00:2021-04-13T11:48:38.1704419+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2021-04-13T11:48:38.1715655+02:00:2021-04-13T11:48:38.1713807+02:00:Thread#0:B:And the second number is 70
+2021-04-13T11:48:38.1720329+02:00:2021-04-13T11:48:38.1718538+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2021-04-13T11:48:38.1723546+02:00:2021-04-13T11:48:38.1722046+02:00:Thread#0:B:When the two numbers are splited
+2021-04-13T11:48:38.1727835+02:00:2021-04-13T11:48:38.1726076+02:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreSplit() (0,0s)
+2021-04-13T11:48:38.1730910+02:00:2021-04-13T11:48:38.1729462+02:00:Thread#0:B:Then the result should be 0,7142857142857143
+2021-04-13T11:48:38.1749700+02:00:2021-04-13T11:48:38.1746822+02:00:Thread#0:T:error: Expected _result to be 7.142857E+15F, but found 0F. (0,0s)
+2021-04-13T11:48:38.1765905+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-04-13T11:48:38.1766155+02:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #6
+2021-04-13T11:48:38.1766206+02:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2021-04-13T11:48:38.1766428+02:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2021-04-13T11:48:38.1766468+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2021-04-13T11:48:38.1766486+02:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2021-04-13T11:48:38.1766509+02:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2021-04-13T11:48:38.1766627+02:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2021-04-13T11:48:38.1766705+02:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-04-13T11:48:38.1783097+02:00:Thread#0: Test #6/1 is finished on thread #0 as Failed within 0,0098585 seconds
+2021-04-13T11:48:38.1791988+02:00:Thread#0: Test #6/2 is started on thread #0
+2021-04-13T11:48:38.1803779+02:00:2021-04-13T11:48:38.1798572+02:00:Thread#0:B:Given the first number is 50
+2021-04-13T11:48:38.1813623+02:00:2021-04-13T11:48:38.1810979+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0,0s)
+2021-04-13T11:48:38.1817229+02:00:2021-04-13T11:48:38.1815402+02:00:Thread#0:B:And the second number is 70
+2021-04-13T11:48:38.1821391+02:00:2021-04-13T11:48:38.1819900+02:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0,0s)
+2021-04-13T11:48:38.1824891+02:00:2021-04-13T11:48:38.1823075+02:00:Thread#0:B:When the two numbers are splited
+2021-04-13T11:48:38.1829107+02:00:2021-04-13T11:48:38.1827182+02:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreSplit() (0,0s)
+2021-04-13T11:48:38.1832215+02:00:2021-04-13T11:48:38.1830709+02:00:Thread#0:B:Then the result should be 0,7142857142857143
+2021-04-13T11:48:38.1849640+02:00:2021-04-13T11:48:38.1846341+02:00:Thread#0:T:error: Expected _result to be 7.142857E+15F, but found 0F. (0,0s)
+2021-04-13T11:48:38.1861852+02:00:Thread#0:Scheduler: get next test for thread 0
+2021-04-13T11:48:38.1862022+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-04-13T11:48:38.1862054+02:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-04-13T11:48:38.1862080+02:00:Thread#0:Scheduler: No more tests for thread
+2021-04-13T11:48:38.1995181+02:00:Thread#0: Test #6/2 is finished on thread #0 as Failed within 0,0202286 seconds
+2021-04-13T11:48:38.2078261+02:00:2021-04-13T11:48:38.2074898+02:00:Got Deinitialize Signal
+2021-04-13T11:48:38.2116899+02:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-04-13T11:48:38.2148374+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-04-13T11:48:38.2151037+02:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-04-13T11:48:38.2171276+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr-FR, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:38.2171489+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-04-13T11:48:38.2171556+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-04-13T11:48:38.2171708+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:38.2171737+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-04-13T11:48:38.2172315+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-04-13T11:48:38.2172584+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1'
+2021-04-13T11:48:38.2172767+02:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-04-13T11:48:38.2173248+02:00:Tfm: netcoreapp3.1
+2021-04-13T11:48:38.2173290+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:38.2173307+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-04-13T11:48:38.2173637+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-04-13T11:48:38.2174207+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'D:\Mes projets\SpecFlowCalculator\SpecFlowCalculator.Specs\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-04-13T11:48:38.2180947+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:38.2181031+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-04-13T11:48:38.2181603+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-04-13T11:48:38.2181911+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.13'
+2021-04-13T11:48:38.2183032+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:38.2183085+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-04-13T11:48:38.2183420+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-04-13T11:48:38.2183743+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.13'
+2021-04-13T11:48:38.2184833+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:38.2184887+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Diagnostics.Process.resources.dll'
+2021-04-13T11:48:38.2185295+02:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13\System.Diagnostics.Process.resources.exe'
+2021-04-13T11:48:38.2185598+02:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.13'
+2021-04-13T11:48:38.2199429+02:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=fr, PublicKeyToken=b03f5f7f11d50a3a
+2021-04-13T11:48:38.2282198+02:00:Thread#-1:Scheduler: get next test for thread -1
+2021-04-13T11:48:38.2282378+02:00:Thread#:Scheduler: at the end of normal test queue
+2021-04-13T11:48:38.2282407+02:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-04-13T11:48:38.2615239+02:00;Thread#11;Info;test run finished
+2021-04-13T11:48:38.2626686+02:00;Thread#11;Info;publishing test results
+2021-04-13T11:48:38.2630836+02:00;Thread#11;Info;Not publishing results.
+2021-04-13T11:48:38.2633138+02:00;Thread#11;Info;test results published
+2021-04-13T11:48:38.2635090+02:00;Thread#11;Info;generating reports
+2021-04-13T11:48:38.3846165+02:00;Thread#11;Info;Starting external report generation process
+2021-04-13T11:48:40.5338554+02:00;Thread#11;Info;Successfully generated reports.
+2021-04-13T11:48:40.5361755+02:00;Thread#11;Info;Successfully generated reports
+2021-04-13T11:48:40.5435651+02:00:Total: 3 (test executions: 5)
+2021-04-13T11:48:40.5455051+02:00:Succeeded: 2
+2021-04-13T11:48:40.5458710+02:00:Ignored: 0
+2021-04-13T11:48:40.5461844+02:00:Pending: 0
+2021-04-13T11:48:40.5461912+02:00:Skipped: 0
+2021-04-13T11:48:40.5464780+02:00:Failed: 1
+2021-04-13T11:48:40.5533033+02:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-04-13T11:48:40.5534740+02:00;VSTestExecutionThread;Info;adding Test Execution Report 'D:\Mes projets\SpecFlowCalculator\TestResults\Unnamed project__2021-04-13T114833.html'
+========== End of log file ==========

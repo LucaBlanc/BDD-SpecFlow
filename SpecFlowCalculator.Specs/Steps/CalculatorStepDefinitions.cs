@@ -13,7 +13,7 @@ namespace SpecFlowCalculator.Specs.Steps
 
         private readonly Calculator _calculator = new Calculator();
 
-        private int _result;
+        private float _result;
 
         public CalculatorStepDefinitions(ScenarioContext scenarioContext)
         {
@@ -36,6 +36,18 @@ namespace SpecFlowCalculator.Specs.Steps
         public void WhenTheTwoNumbersAreAdded()
         {
             _result = _calculator.Add();
+        }
+
+        [When("the two numbers are multiplied")]
+        public void WhenTheTwoNumbersAreMulti()
+        {
+            _result = _calculator.Multi();
+        }
+
+        [When("the two numbers are splited")]
+        public void WhenTheTwoNumbersAreSplit()
+        {
+            _result = _calculator.Split();
         }
 
         [Then("the result should be (.*)")]
